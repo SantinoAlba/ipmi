@@ -1,4 +1,4 @@
-//Tp 1 Comision 1//
+//Tp1 Comision 1//
 //Albarracin Santino//
 
 void setup() {
